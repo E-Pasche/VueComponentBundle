@@ -1,0 +1,11 @@
+{
+  "entrypoints": {
+    "test": {
+      "js": [
+        "./runtime.js",
+        "./vendors-node_modules_core-js_modules_es_object_define-property_js-node_modules_vue-loader_dis-74178e.js",
+        "./test.js"
+      ]
+    }
+  }
+}

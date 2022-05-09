@@ -1,0 +1,5 @@
+{
+  "bundles/test/test.js": "./test.js",
+  "bundles/test/runtime.js": "./runtime.js",
+  "bundles/test/vendors-node_modules_core-js_modules_es_object_define-property_js-node_modules_vue-loader_dis-74178e.js": "./vendors-node_modules_core-js_modules_es_object_define-property_js-node_modules_vue-loader_dis-74178e.js"
+}

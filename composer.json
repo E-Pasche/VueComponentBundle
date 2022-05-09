@@ -1,0 +1,28 @@
+{
+    "name": "test/vue-component-bundle",
+    "description": "test package to include vue form package to project",
+    "type": "symfony-bundle",
+    "require":{
+        "php": ">=8.0.2",
+        "symfony/framework-bundle": "^6.0",
+        "symfony/webpack-encore-bundle": "^1.14",
+        "symfony/flex": "^2.1"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Test\\VueComponentBundle\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Test\\VueComponentBundle\\Tests\\": "tests/"
+        }
+    },
+    "scripts": {
+        "auto-scripts": {
+            "cache:clear": "symfony-cmd",
+            "assets:install %PUBLIC_DIR%": "symfony-cmd"
+        }
+    }
+}
