@@ -1,5 +1,5 @@
 {
-    "name": "e-pasche/vue-component-bundle",
+    "name": "epasche/vue-component-bundle",
     "description": "test package to include vue form package to project",
     "type": "symfony-bundle",
     "require":{
