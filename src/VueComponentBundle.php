@@ -1,6 +1,6 @@
 <?php
 
-namespace Test\VueComponentBundle;
+namespace Epasche\VueComponentBundle;
 
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 
