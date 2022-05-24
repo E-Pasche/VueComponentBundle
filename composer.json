@@ -11,12 +11,12 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Test\\VueComponentBundle\\": "src/"
+            "Epasche\\VueComponentBundle\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Test\\VueComponentBundle\\Tests\\": "tests/"
+            "Epasche\\VueComponentBundle\\Tests\\": "tests/"
         }
     },
     "scripts": {
